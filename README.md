@@ -3,6 +3,8 @@ You can use and modify `contracts/Crowdfunding.sol`.
 
 To add functionality to your contracts, you can use the `@thirdweb-dev/contracts` package which provides base contracts and extensions to inherit. The package is already installed with this project. Head to our [Contracts Extensions Docs](https://portal.thirdweb.com/contractkit) to learn more.
 
+Add a .env file and save your PRIVATE KEY from digital wallet there as PRIVATE_KEY="YOUR PRIVATE KEY"
+
 
 ## Deploying Contracts
 
